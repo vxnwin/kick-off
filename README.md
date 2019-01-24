@@ -6,6 +6,6 @@ Team Members
 - Declan Johnson (Team and Technology Lead)
 - David Airola (Data Analyst)
 - Tyler Davis (CIO)
-- Vu Nguyen (Insert Job Title)
+- Vu Nguyen (Video Game Programmer)
 
 
